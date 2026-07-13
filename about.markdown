@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This blog is made by jxmezb aka smellslikecheese. It is a poorly written blog. As I like to call it, "a mind with a keyboard". 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I like to write about a lot, history, future ideas, future tech/gadgets, conspiracy theories, and much more.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is for people who like to expand their minds and try something new maybe a new deep thinking. Maybe you'll enjoy my fictitious stories/opinions on a said subject.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Either way, this is my personal blog and I hope you find something interesting here as much as I do. Thanks for the visit! Check out my socials at the bottom below!
